@@ -3,7 +3,7 @@
 
 ---
 ### Ver PDF
-[![PDF Preview](https://img.shields.io/badge/Ver%20PDF-%23FF5722.svg)](https://github.com/DnaXruz/ProyectoReact/raw/main/Proyecto%20equipo%20The%20Stack%20Overflowers.pdf)
+[![PDF Preview](https://img.shields.io/badge/Ver%20PDF-%23FF5722.svg)](https://github.com/DnaXruz/ProyectoReact/blob/main/Proyecto%20equipo%20The%20Stack%20Overflowers.pdf)
 
 
 # **📌 [Nombre del Proyecto]**  
