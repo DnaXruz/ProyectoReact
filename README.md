@@ -61,9 +61,6 @@ Antes de comenzar, asegúrate de tener instalado:
    ```bash
    http://localhost:pordefinir
    ```
-   5. **Abre tu navegador y accede a:**  
-   [http://localhost:pordefinir](http://localhost:pordefinir)
-
 
 ---
 
