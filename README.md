@@ -6,7 +6,7 @@
 [![PDF Preview](https://img.shields.io/badge/Ver%20PDF-%23FF5722.svg)](https://github.com/DnaXruz/ProyectoReact/blob/main/Proyecto%20equipo%20The%20Stack%20Overflowers.pdf)
 
 
-# **📌 The Stack Overflowers **  
+# 📌 The Stack Overflowers 
 🚀 *Aplicación web desarrollada con React.js – Rápida, dinámica y moderna.*  
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react)  
