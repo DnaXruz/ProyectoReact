@@ -33,7 +33,6 @@
 - **Consumo de API:** por definir
 - **Otros:** Hooks avanzados (`useState`, `useEffect`, `useContext`), localStorage  
 
-
 ## 📦 **Instalación y ejecución**  
 
 ### 🔹 **Requisitos previos**  
@@ -59,12 +58,11 @@ Antes de comenzar, asegúrate de tener instalado:
    npm run dev
    ```  
 5. **Abre tu navegador y accede a:**  
-   ```
+   ```bash
    http://localhost:pordefinir
    ```  
 
 ---
-
 
 ## 📜 **Licencia**  
 Este proyecto está bajo la licencia **MIT** – [Ver más](LICENSE).  
