@@ -2,6 +2,8 @@
 🚀 Aplicación web desarrollada con React.js – Rápida, dinámica y moderna, diseñada para ofrecer una interfaz moderna, dinámica y optimizada. Implementamos las mejores prácticas de desarrollo frontend para garantizar una experiencia de usuario fluida y atractiva. 🚀  
 
 ---
+### Ver PDF
+[![PDF Preview](https://img.shields.io/badge/Ver%20PDF-%23FF5722.svg)](https://github.com/dnaxruz/ProyectoReac/raw/main/Proyecto%20equipo%20The%20Stack%20Overflowers.pdf)
 
 # **📌 [Nombre del Proyecto]**  
 🚀 *Aplicación web desarrollada con React.js – Rápida, dinámica y moderna.*  
