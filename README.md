@@ -21,8 +21,8 @@
 ✅ **Arquitectura basada en componentes** para escalabilidad.  
 ✅ **Gestión de estado eficiente** por definir 
 ✅ **Interfaz responsiva y accesible**, con un diseño UX/UI atractivo.  
-✅ **Consumo de APIs en tiempo real** por definir 
-✅ **Optimización del rendimiento** por definir 
+✅ **Consumo de APIs en tiempo real** por definir. 
+✅ **Optimización del rendimiento** por definir. 
 ✅ **Enrutamiento dinámico** con React Router.  
 
 ## 🚀 **Tecnologías utilizadas**  
