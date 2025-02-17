@@ -1,7 +1,5 @@
 # ProyectoReact
-🚀 Aplicación web desarrollada con React.js – Rápida, dinámica y moderna, diseñada para ofrecer una interfaz moderna, dinámica y optimizada. Implementamos las mejores prácticas de desarrollo frontend para garantizar una experiencia de usuario fluida y atractiva.
-
-Aquí tienes un **README.md** bien estructurado para tu proyecto en GitHub. Puedes copiarlo y personalizarlo según tu aplicación. 🚀  
+🚀 Aplicación web desarrollada con React.js – Rápida, dinámica y moderna, diseñada para ofrecer una interfaz moderna, dinámica y optimizada. Implementamos las mejores prácticas de desarrollo frontend para garantizar una experiencia de usuario fluida y atractiva. 🚀  
 
 ---
 
